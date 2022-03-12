@@ -1,7 +1,8 @@
 
-# Dicee 🎲
+# Flutter Dice 🎲
+
+### Learning Flutter
 
 
-![Finished App](https://github.com/londonappbrewery/Images/blob/master/dicee-demo.gif)
+[FLutter Dice App](https://user-images.githubusercontent.com/61585443/158007789-4999d5dd-7fe5-4059-8cd7-4850f023f87b.mp4)
 
-# Flutter-Dice-App
